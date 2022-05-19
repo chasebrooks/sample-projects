@@ -5,3 +5,4 @@ A portfolio repository containing various analyses, modeling techniques, and tec
 3. Randomized Optimization: Compare the performance and various considerations of multiple randomized optimization techniques (random hill climbing, simmulated annealing, genetic algorithms, and MIMIC)
 4. Unsupervised Learning and Dimensionality Reduction: Applied K-Means and K-Nearest Neighbors clustering algorithms to unstructured dataset + reduced dimensionality with Independent Components Analysis (ICA) + Principal Components Analysis (PCA)
 5. Onion Price Prediction: Contains code with exploration and prediction of modal onion prices from an example Kaggle Dataset.
+6. Mars Glider: Implemented particle filtering to localize a robotic glider based solely on elevation data.
